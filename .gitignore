@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.local
+.DS_Store
+Thumbs.db
+
+# Old vanilla JS files (superseded by Vue)
+js/
+css/
+projects.html
+project-detail.html
